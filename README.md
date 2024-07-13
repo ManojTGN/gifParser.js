@@ -1,0 +1,1 @@
+# gifParser.js
